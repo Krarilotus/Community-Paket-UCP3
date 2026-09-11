@@ -13,8 +13,3 @@ tags:
 - aiv
 family:
 - name: community-paket
-capabilities:
-  files: true
-  code: false
-  configuration: false
-  options: false

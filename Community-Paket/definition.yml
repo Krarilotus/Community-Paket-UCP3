@@ -16,8 +16,3 @@ tags:
 family:
 - name: community-paket
   root: true
-capabilities:
-  files: false
-  code: false
-  configuration: true
-  options: false
